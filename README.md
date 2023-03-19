@@ -1,6 +1,5 @@
-- 👋 Hi.
-<!-- - 👀 I’m interested in ... -->
-<!-- - 🌱 I’m currently learning ... -->
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 Konaktmöglichkeiten:
+## 👋 Hi.
+- 🧪 Aktive Projekte:
+  - Muonium
+- 📫 Kontaktmöglichkeiten:
   - Discord: Simplex#7008
