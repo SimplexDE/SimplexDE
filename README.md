@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Technikstube&repo=discordpy-examples&theme=dark" width="350"></a>
+  <a href="https://github.com/technikstube/discordpy-examples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Technikstube&repo=discordpy-examples&theme=dark" width="350"></a>
 </p>
 
 <!-- <details>
