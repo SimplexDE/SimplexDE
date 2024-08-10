@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=simplexde&show_icons=true&count_private=true&theme=dark" width="350">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=simplexde&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
@@ -20,7 +20,7 @@
 <details>
   <summary>🧪 Languages</summary>
     <p>
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+       <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
     </p>
 </details>
 <details>
