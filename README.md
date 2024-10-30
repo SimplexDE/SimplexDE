@@ -20,7 +20,8 @@
 <details>
   <summary>🧪 Languages</summary>
     <p>
-       <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
+       <a href="#"><img src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&color=yellow" /></a>
+       <!-- <a href="#"><img src="https://img.shields.io/badge/GoLang-gray?style=for-the-badge&logo=go&logoColor=white&logoSize=auto&color=blue" /></a> -->
     </p>
 </details>
 <details>
